@@ -19,6 +19,8 @@ In the default configuration you will have:
 * Two Article Services running on ports: 8081 
 * Two Author Services running on ports: 8082
 
+Note:- For running the indivisual java applications use fallowing commad. mvn spring-boot-run
+
 API Url:-
  Open the browser hit the url . it works through gateway
 * http://localhost:8080/api/autoattendents
