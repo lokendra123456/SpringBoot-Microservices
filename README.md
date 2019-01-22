@@ -17,6 +17,7 @@ In the default configuration you will have:
 * Discovery Service running on port 8083, access http://localhost:8083 to see the dashboard
 * API Gateway running on port 8080, you will send the requests to this service
 * Application autoattendent-service and huntgroup-service arerunning on 8081 and 8082 ports 
+
 Note:- For running the indivisual java applications use fallowing commad. mvn spring-boot-run
 
 API Url:-
